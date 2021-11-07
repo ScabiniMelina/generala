@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1560628930 source:c:\users\meli\documents\c++\generala\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1561506526 source:e:\colegio\codeblocks\generala\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
